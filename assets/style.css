@@ -1,0 +1,13 @@
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+.container span{
+    font-weight: bolder;
+}
+
+.row{
+    display: flex;
+    justify-content: space-between;
+}
